@@ -1,0 +1,34 @@
+﻿td {
+    border: 1px solid #841617;
+    text-align: center;
+}
+
+th {
+    border: 2px solid #841617;
+    text-align: center;
+}
+
+.yes {
+    background-color: antiquewhite;
+    color: black;
+}
+
+    .yes:active {
+        background-color: green;
+        color: white;
+    }
+
+.no {
+    background-color: antiquewhite;
+    color: red;
+}
+
+    .no:active {
+        background-color: red;
+        color: white;
+    }
+
+
+.shoeNum {
+    font-weight: 800;
+}
